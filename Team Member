@@ -1,0 +1,30 @@
+      name: "Younes El khader",
+      role: "Directeur Général & Fondateur",
+      image: "/lovable-uploads/7a05f70f-bfe9-4570-bf19-f78c8c683ea1.png",
+      description: "Visionnaire et leader avec une passion pour l'excellence dans le secteur du voyage"
+    },
+    {
+      name: "Houssam Rabbout", 
+      role: "Community Manager & Graphic Designer & Web Developer",
+      image: "/lovable-uploads/130c70c2-ca35-427d-bb25-c045e7905e8c.png",
+      description: "Expert créatif combinant design moderne et développement web innovant"
+    },
+    {
+      name: "Anass Dadou",
+      role: "Expert en E-commerce & Web Marketing", 
+      image: "/lovable-uploads/f0cb9ea7-cc45-4895-a41b-c485accbedff.png",
+      description: "Spécialiste du marketing digital et stratégies e-commerce avancées"
+    },
+    {
+      name: "Yahya Touil",
+      role: "Agent Commercial & Responsable Billetterie",
+      image: "/lovable-uploads/6f6c9c82-ecf1-4c6a-8c74-79ded196fa66.png", 
+      description: "Expert en ventes et gestion de billetterie pour une expérience client optimale"
+    },
+    {
+      name: "Mohamed Louazzani",
+      role: "Comptable Général & Contrôleur de recettes",
+      image: "/lovable-uploads/93a8768a-01ec-4722-8209-adc891341b12.png",
+      description: "Expert en gestion financière et contrôle des recettes pour une transparence totale"
+    }
+  ];
